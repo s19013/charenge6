@@ -1,3 +1,3 @@
 a=["The","fox","jumped","over","the","fence","."]
-b=" ".join(a)
+b=",".join(a)
 print(b)
